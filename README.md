@@ -99,6 +99,19 @@ Restaurante
 Lista de Funcionalidades
 Tela Login (Cliente e Funcionário)
 Visualização do cardápio (Cliente)
+
+
+
+
+
+///////////////////////////////////////////////////////////
+
+
+
+
+[Projeto Integrador III - Universidade - Grupo 5]
+
+
 Reserva da mesa (Cliente e Funcionário)
 Cancelamento da Reserva (Cliente e Funcionário)
 Alteração da Reserva (Funcionário)
