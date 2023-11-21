@@ -43,19 +43,29 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/08a58fb6-5636-4b05-a5e6-33bafe46463b)
 
 
-# Prototipação em Alta fidelidade
 
- - ## Página Inicial
+# Prototipação em Alta Fidelidade
 
+  - ## Página Inicial
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/4d8280ed-e5e5-4945-af18-0db5dabbce99)
 
+
 - ## Login
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/7b7e6d1a-4165-406a-83f8-2e939d27cb6b)
+
 
 - ## Cadastro
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/4d1655fe-5f6c-4e3e-a894-7d2b39073fbb)
 
-- ## Atualizar Cadastro
+
+- ## Redefinir Senha
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/2a275d10-97a2-4fc8-b0b3-31e75aab500e)
+
+
+
 
 - ## Verificar Cadastro
+
 
 - ## Alterar Senha
 
@@ -92,13 +102,9 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 
 - 
 
-![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/4d8280ed-e5e5-4945-af18-0db5dabbce99)
 
-![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/7b7e6d1a-4165-406a-83f8-2e939d27cb6b)
 
-![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/4d1655fe-5f6c-4e3e-a894-7d2b39073fbb)
 
-![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/2a275d10-97a2-4fc8-b0b3-31e75aab500e)
 
 
 
