@@ -86,11 +86,6 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/a2a89cb3-12ad-4f3e-8294-3a1a52626f74)
 
 
-
-///////////////////////////////////////////////
-
-
-
 - ## Contato
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/2bc776ee-7ac6-4199-af14-ce08cc8a29e0)
 
@@ -130,6 +125,49 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 - ## Adicionar e Remover Disciplinas
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/bb9e4bed-4ecf-46fe-b068-e017a516ba76)
 
+
+
+
+///////////////////////////////////////////////
+
+
+- ## Turma Genérica e Média
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/37710e1f-c1c6-49b0-ab2a-7f4c3baa7e47)
+
+
+- ## Adicionar ou Remover Alunos
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/7b20c28d-c700-4bad-8e57-064af4c35c1d)
+
+
+- ## Notas e Disciplinas
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/5d2d8465-d9c4-4848-9f81-fbd22571279d)
+
+
+- ## Funcionários Cadastrados (Lista Geral)
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/f29e7397-8903-4cbf-9608-355f52124ec5)
+
+
+- ## Funcionários Cadastrados (Individual)
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/dfdfe274-60c1-4515-8929-e3e123bef4c5)
+
+
+- ## Envio de Pedido/ Orçamento
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/f51fa361-5e0b-40eb-93df-93c1de11febd)
+
+
+- ## Acompanhar Status
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/af89ac92-f2c8-4c88-9975-8bea246fbbf0)
+
+
+
+
+
+///////////////////////////////////////////////
+
+
+
+
+Inclusão de 7 telas, sendo elas: A da Turma Genérica e Média, Adicionar ou Remover Alunos, Notas e Disciplinas, Funcionários Cadastrados (Lista Geral), Funcionários Cadastrados (Individual), Envio de Pedido/ Orçamento e Acompanhar Status.
 
 
 
