@@ -2,13 +2,17 @@
 Apenas para testes
 
 
+
+
+
+
 ![27](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/36e12df8-d445-47a8-92a0-b45d6c001213)
 
 
 skçjgskjgçskgl
 
 skçjgskjgçskgl
-
+Tela de login
 
 skçjgskjgçskgl
 
@@ -34,3 +38,13 @@ Professor: cria uma conta, utiliza o login e a senha para entrar, verificar e ma
 Pessoa Jurídica: cria uma conta, utiliza o login e a senha para entrar, manipular dados de seus funcionários, acessar informações financeiras (como faturas e pagamentos), tem acesso ao contato da universidade, e altera cadastro.
 Pessoa Física: cria uma conta, utiliza o login e a senha para entrar, acessa a página principal, tem acesso ao contato da universidade, e altera cadastro.
 Fornecedor: cria uma conta, utiliza o login e a senha para entrar, envio de orçamentos (pedidos, propostas/orçamentos para fornecer produtos), acompanhar status 
+
+
+Restaurante
+Lista de Funcionalidades
+Tela Login (Cliente e Funcionário)
+Visualização do cardápio (Cliente)
+Reserva da mesa (Cliente e Funcionário)
+Cancelamento da Reserva (Cliente e Funcionário)
+Alteração da Reserva (Funcionário)
+Alteração do cardápio (Funcionário)
