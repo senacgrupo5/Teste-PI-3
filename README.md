@@ -62,8 +62,6 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/2a275d10-97a2-4fc8-b0b3-31e75aab500e)
 
 
-///////////////////////////////////////////////
-
 - ## Redefinir Senha 2
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/63841899-f5b9-4fb9-89f1-2b3ca6ef8809)
 
@@ -89,11 +87,58 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 
 
 
+///////////////////////////////////////////////
+
+
+
+- ## Contato
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/2bc776ee-7ac6-4199-af14-ce08cc8a29e0)
+
+
+- ## Bem Vindo Aluno
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/b8824cda-c6f0-4c2b-83be-a160a4045ef5)
+
+
+- ## Disciplinas e Turmas (Aluno)
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/9d183ddd-8ecd-447b-96b1-72d57bb49d9a)
+
+
+- ## Turma Genérica e Média
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/c035e8c5-4c69-49f1-a825-3d0dbd1496ca)
+
+
+- ## Notas
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/608c440b-832d-4301-966f-f2c3cbf32529)
+
+
+- ## Matrícula e Rematrícula
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/c7e4660a-ae2e-40a3-a9d2-a733828df67b)
+
+
+- ## Atualizar Cadastro
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/ce4c4000-8860-4018-bf8d-5c55f239cf8d)
+
+
+- ## Bem Vindo Professor
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/18977c0a-86a2-4c03-a57a-f803d231209b)
+
+
+- ## Disciplinas e Turmas (Professores)
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/fd7fc497-43e3-47d0-8a93-a0cddb06724a)
+
+
+- ## Adicionar e Remover Disciplinas
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/bb9e4bed-4ecf-46fe-b068-e017a516ba76)
+
+
+
+
+
+Add tela de Contato, Bem Vindo Aluno, Disciplinas e Turma (Aluno), Turma Genérica e Média, Notas, Matrícula e Rematrícula, Atualizar Cadastro, Bem Vindo Professor, Disciplina e Aluno (Professores) e Adicionar e Remover Disciplinas.
+
+
 
 - ## Verificar Cadastro
-
-- ## Alterar Senha
-- ## Contato
 
 - ## Tela Inicial (Bem Vindo)
 
