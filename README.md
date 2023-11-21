@@ -45,31 +45,33 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 
 # Prototipação em Alta fidelidade
 
-- Página Inicial
+ - ## Página Inicial
 
-- Login
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/4d8280ed-e5e5-4945-af18-0db5dabbce99)
 
-- Cadastro
+- ## Login
 
-- Atualizar Cadastro
+- ## Cadastro
 
-- Verificar Cadastro
+- ## Atualizar Cadastro
 
-- Alterar Senha
+- ## Verificar Cadastro
 
-- Sobre Nós
+- ## Alterar Senha
 
-- Trabalhe Conosco
+- ## Sobre Nós
 
-- Contato
+- ## Trabalhe Conosco
 
-- Tela Inicial (Bem Vindo)
+- ## Contato
 
-- Envio do Pedido/ Orçamento
+- ## Tela Inicial (Bem Vindo)
 
-- Curso
+- ## Envio do Pedido/ Orçamento
 
-- Matrícula
+- ## Curso
+
+- ## Matrícula
 
 - 
 
