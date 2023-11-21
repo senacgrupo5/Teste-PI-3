@@ -62,24 +62,43 @@ Foi elaborado o diagrama de casos de uso representado na figura 1 a seguir:
 ![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/2a275d10-97a2-4fc8-b0b3-31e75aab500e)
 
 
+///////////////////////////////////////////////
+
+- ## Redefinir Senha 2
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/63841899-f5b9-4fb9-89f1-2b3ca6ef8809)
+
+
+- ## Redefinir Senha 3
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/74318852-0314-4ce5-b948-270b417df076)
+
+
+- ## Sobre Nós
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/3736cc05-6118-419a-b85c-6edf33611cd0)
+
+
+- ## Cursos
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/f6bf722c-9cf1-4def-bb9d-179b3bdc0c8e)
+
+
+- ## Curso Genérico
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/679e6065-a78c-4e23-af27-2a881dc04c1a)
+
+
+- ## Trabalhe Conosco
+![image](https://github.com/senacgrupo5/Teste-PI-3/assets/151482254/a2a89cb3-12ad-4f3e-8294-3a1a52626f74)
+
+
 
 
 - ## Verificar Cadastro
 
-
 - ## Alterar Senha
-
-- ## Sobre Nós
-
-- ## Trabalhe Conosco
-
 - ## Contato
 
 - ## Tela Inicial (Bem Vindo)
 
 - ## Envio do Pedido/ Orçamento
 
-- ## Curso
 
 - ## Matrícula
 
